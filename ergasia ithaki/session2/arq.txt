@@ -1,0 +1,383 @@
+Packet No1: 
+	Packet time : 2054
+	Sent times : 1
+
+Packet No2: 
+	Packet time : 2052
+	Sent times : 1
+
+Packet No3: 
+	Packet time : 2039
+	Sent times : 1
+
+Packet No4: 
+	Packet time : 2039
+	Sent times : 1
+
+Packet No5: 
+	Packet time : 2041
+	Sent times : 1
+
+Packet No6: 
+	Packet time : 2052
+	Sent times : 1
+
+Packet No7: 
+	Packet time : 2049
+	Sent times : 1
+
+Packet No8: 
+	Packet time : 2051
+	Sent times : 1
+
+Packet No9: 
+	Packet time : 2044
+	Sent times : 1
+
+Packet No10: 
+	Packet time : 2042
+	Sent times : 1
+
+Packet No11: 
+	Packet time : 2055
+	Sent times : 1
+
+Packet No12: 
+	Packet time : 2058
+	Sent times : 1
+
+Packet No13: 
+	Packet time : 2044
+	Sent times : 1
+
+Packet No14: 
+	Packet time : 4100
+	Sent times : 2
+
+Packet No15: 
+	Packet time : 2041
+	Sent times : 1
+
+Packet No16: 
+	Packet time : 2040
+	Sent times : 1
+
+Packet No17: 
+	Packet time : 2050
+	Sent times : 1
+
+Packet No18: 
+	Packet time : 2048
+	Sent times : 1
+
+Packet No19: 
+	Packet time : 2048
+	Sent times : 1
+
+Packet No20: 
+	Packet time : 2039
+	Sent times : 1
+
+Packet No21: 
+	Packet time : 2042
+	Sent times : 1
+
+Packet No22: 
+	Packet time : 2054
+	Sent times : 1
+
+Packet No23: 
+	Packet time : 2049
+	Sent times : 1
+
+Packet No24: 
+	Packet time : 4406
+	Sent times : 2
+
+Packet No25: 
+	Packet time : 6464
+	Sent times : 3
+
+Packet No26: 
+	Packet time : 2050
+	Sent times : 1
+
+Packet No27: 
+	Packet time : 2037
+	Sent times : 1
+
+Packet No28: 
+	Packet time : 2052
+	Sent times : 1
+
+Packet No29: 
+	Packet time : 2055
+	Sent times : 1
+
+Packet No30: 
+	Packet time : 2060
+	Sent times : 1
+
+Packet No31: 
+	Packet time : 2038
+	Sent times : 1
+
+Packet No32: 
+	Packet time : 4088
+	Sent times : 2
+
+Packet No33: 
+	Packet time : 2039
+	Sent times : 1
+
+Packet No34: 
+	Packet time : 2058
+	Sent times : 1
+
+Packet No35: 
+	Packet time : 2038
+	Sent times : 1
+
+Packet No36: 
+	Packet time : 2040
+	Sent times : 1
+
+Packet No37: 
+	Packet time : 2045
+	Sent times : 1
+
+Packet No38: 
+	Packet time : 2358
+	Sent times : 1
+
+Packet No39: 
+	Packet time : 2044
+	Sent times : 1
+
+Packet No40: 
+	Packet time : 2056
+	Sent times : 1
+
+Packet No41: 
+	Packet time : 2044
+	Sent times : 1
+
+Packet No42: 
+	Packet time : 4095
+	Sent times : 2
+
+Packet No43: 
+	Packet time : 2045
+	Sent times : 1
+
+Packet No44: 
+	Packet time : 2045
+	Sent times : 1
+
+Packet No45: 
+	Packet time : 4087
+	Sent times : 2
+
+Packet No46: 
+	Packet time : 2053
+	Sent times : 1
+
+Packet No47: 
+	Packet time : 2040
+	Sent times : 1
+
+Packet No48: 
+	Packet time : 2045
+	Sent times : 1
+
+Packet No49: 
+	Packet time : 2040
+	Sent times : 1
+
+Packet No50: 
+	Packet time : 2044
+	Sent times : 1
+
+Packet No51: 
+	Packet time : 4082
+	Sent times : 2
+
+Packet No52: 
+	Packet time : 2041
+	Sent times : 1
+
+Packet No53: 
+	Packet time : 2055
+	Sent times : 1
+
+Packet No54: 
+	Packet time : 6147
+	Sent times : 3
+
+Packet No55: 
+	Packet time : 2042
+	Sent times : 1
+
+Packet No56: 
+	Packet time : 2040
+	Sent times : 1
+
+Packet No57: 
+	Packet time : 2040
+	Sent times : 1
+
+Packet No58: 
+	Packet time : 2045
+	Sent times : 1
+
+Packet No59: 
+	Packet time : 2042
+	Sent times : 1
+
+Packet No60: 
+	Packet time : 2060
+	Sent times : 1
+
+Packet No61: 
+	Packet time : 2056
+	Sent times : 1
+
+Packet No62: 
+	Packet time : 4093
+	Sent times : 2
+
+Packet No63: 
+	Packet time : 2044
+	Sent times : 1
+
+Packet No64: 
+	Packet time : 2041
+	Sent times : 1
+
+Packet No65: 
+	Packet time : 2042
+	Sent times : 1
+
+Packet No66: 
+	Packet time : 2053
+	Sent times : 1
+
+Packet No67: 
+	Packet time : 2056
+	Sent times : 1
+
+Packet No68: 
+	Packet time : 2040
+	Sent times : 1
+
+Packet No69: 
+	Packet time : 2042
+	Sent times : 1
+
+Packet No70: 
+	Packet time : 2047
+	Sent times : 1
+
+Packet No71: 
+	Packet time : 2054
+	Sent times : 1
+
+Packet No72: 
+	Packet time : 6148
+	Sent times : 3
+
+Packet No73: 
+	Packet time : 2044
+	Sent times : 1
+
+Packet No74: 
+	Packet time : 2042
+	Sent times : 1
+
+Packet No75: 
+	Packet time : 4109
+	Sent times : 2
+
+Packet No76: 
+	Packet time : 2059
+	Sent times : 1
+
+Packet No77: 
+	Packet time : 10228
+	Sent times : 5
+
+Packet No78: 
+	Packet time : 2041
+	Sent times : 1
+
+Packet No79: 
+	Packet time : 2044
+	Sent times : 1
+
+Packet No80: 
+	Packet time : 2057
+	Sent times : 1
+
+Packet No81: 
+	Packet time : 4113
+	Sent times : 2
+
+Packet No82: 
+	Packet time : 2052
+	Sent times : 1
+
+Packet No83: 
+	Packet time : 2041
+	Sent times : 1
+
+Packet No84: 
+	Packet time : 2057
+	Sent times : 1
+
+Packet No85: 
+	Packet time : 2040
+	Sent times : 1
+
+Packet No86: 
+	Packet time : 4089
+	Sent times : 2
+
+Packet No87: 
+	Packet time : 2039
+	Sent times : 1
+
+Packet No88: 
+	Packet time : 4092
+	Sent times : 2
+
+Packet No89: 
+	Packet time : 2042
+	Sent times : 1
+
+Packet No90: 
+	Packet time : 2041
+	Sent times : 1
+
+Packet No91: 
+	Packet time : 2051
+	Sent times : 1
+
+Packet No92: 
+	Packet time : 2041
+	Sent times : 1
+
+Packet No93: 
+	Packet time : 2041
+	Sent times : 1
+
+Packet No94: 
+	Packet time : 2055
+	Sent times : 1
+
+Packet No95: 
+	Packet time : 4094
+	Sent times : 2
+
+
+
+ Total time : 240420
